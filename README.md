@@ -22,20 +22,20 @@ http://127.0.0.1:8000
 
 Скриншоты (еще из старой версии, уже не актуальные):
 
-![](./imgs/Screenshot 2025-10-02 214701.png)
-![](./imgs/Screenshot 2025-10-02 214843.png)
+![](./imgs/Screenshot-2025-10-02-214701.png)
+![](./imgs/Screenshot-2025-10-02-214843.png)
 
-![](./imgs/Screenshot 2025-10-02 215045.png)
-![](./imgs/Screenshot 2025-10-02 215101.png)
+![](./imgs/Screenshot-2025-10-02-215045.png)
+![](./imgs/Screenshot-2025-10-02-215101.png)
 
-![](./imgs/Screenshot 2025-10-02 215126.png)
-![](./imgs/Screenshot 2025-10-02 215413.png)
+![](./imgs/Screenshot-2025-10-02-215126.png)
+![](./imgs/Screenshot-2025-10-02-215413.png)
 
-![](./imgs/Screenshot 2025-10-02 215846.png)
-![](./imgs/Screenshot 2025-10-02 215906.png)
+![](./imgs/Screenshot-2025-10-02-215846.png)
+![](./imgs/Screenshot-2025-10-02-215906.png)
 
-![](./imgs/Screenshot 2025-10-02 220627.png)
-![](./imgs/Screenshot 2025-10-02 220645.png)
+![](./imgs/Screenshot-2025-10-02-220627.png)
+![](./imgs/Screenshot-2025-10-02-220645.png)
 
 
 ###поставьте троечку пожалуйста
