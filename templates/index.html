@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block title %}Главная{% endblock %}
+
+{% block content %}
+<h2>Посты</h2>
+{% for post in posts %}
+    <article>
+        <h3>{{ post.title }}</h3>
+        <p>Автор: {{ post.author }}</p>
+        <p>{{ post.content }}</p>
+    </article>
+{% endfor %}
+{% endblock %}

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{% block title %}Blog{% endblock %}</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <header>
+        <h1><a href="/">Blog</a></h1>
+        <nav>
+            {% if request.session.user_id %}
+                <span>Привет, {{ request.session.email }}</span>
+                <a href="/profile">Профиль</a>
+                <a href="/posts/create">Новый пост</a>
+                <a href="/auth/logout">Выход</a>
+            {% else %}
+                <a href="/auth/login">Вход</a>
+                <a href="/auth/register">Регистрация</a>
+            {% endif %}
+        </nav>
+    </header>
+    <main>
+        {% block content %}{% endblock %}
+    </main>
+</body>
+</html>
+
